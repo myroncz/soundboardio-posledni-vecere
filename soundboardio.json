@@ -1,0 +1,96 @@
+{
+  "name": "Poslední večeře",
+  "shortName": "posledni-vecere",
+  "description": "Tak si naber ty svině!",
+  "story": [
+    "Je to takový UNAPETITLICH"
+  ],
+  "color": "#9C003B",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "MyRoNcz",
+    "url": "https://github.com/myroncz"
+  },
+  "lang": "en",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/og-image.jpg",
+      "sizes": "583x330",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "purpose": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Polívka je studená",
+      "filename": "1_polivka_studena.mp3"
+    },
+    {
+      "name": "Tak si naber, ty svině!",
+      "filename": "2_tak_si_naber_ty_svine.mp3"     
+    },
+    {
+      "name": "Nekaž mi apetit",
+      "filename": "3_nekaz_mi_apetit.mp3"
+    },
+    {
+      "name": "Mám se svlíct?",
+      "filename": "4_mam_se_svlict.mp3"      
+    },
+    {
+      "name": "To už míš bejt dávno svlečená!",
+      "filename": "5_to_uz_mas_betj_davno_svlecena.mp3"      
+    },
+    {
+      "name": "Narovnejte ten ubrus!",
+      "filename": "6_narovnejte_ten_ubrus.mp3"      
+    },
+    {
+      "name": "Vždyť je to takový UNAPETITLICH",
+      "filename": "7_vzdyt_je_to_takovy_unapetitlich.mp3"      
+    },
+    {
+      "name": "Zavři oči couro!",
+      "filename": "8_zavri_oci_couro.mp3"      
+
+    },
+    {
+      "name": "Spolkla sis jazyk?",
+      "filename": "9_spolka_sis_jazyk.mp3"      
+    },
+	{
+      "name": "Čubko!",
+      "filename": "10_cubko.mp3"      
+
+    },
+	{
+      "name": "Tak pojď",
+      "filename": "11_tak_pojd.mp3"      
+
+    }
+  ],
+  "lyrics": [
+    "Ta polívka je studená!",
+    "Tak si naber, ty svině!",
+    "Nekaž mi apetit",
+	"Mám se svlíct?",
+	"To už míš bejt dávno svlečená!",
+	"Narovnejte ten ubrus!",
+	"Vždyť je to takový UNAPETITLICH",
+	"Zavři oči couro!",
+	"Spolkla sis jazyk?",
+	"Čubko!",
+	"Tak pojď",
+  ]
+}
