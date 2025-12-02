@@ -1,6 +1,6 @@
 <p align="center">
   <img src="/icons/icon-192x192.png?sanitize=true" width="192">
-  <h1 align="center">SoundBoardio plugin: Burning stuff!</h1>
+  <h1 align="center">SoundBoardio plugin: Poslední večeře!</h1>
 </p>
 
 > Plugin for [SoundBoardio.com](https://soundboardio.com)
