@@ -1,5 +1,5 @@
 {
-  "name": "Posledni vecere",
+  "name": "Poslední večeře",
   "shortName": "posledni-vecere",
   "description": "Tak si naber ty svine...",
   "story": [
@@ -12,7 +12,7 @@
     "url": "https://github.com/myroncz"
   },
   "lang": "cs",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "icons": [
     {
       "src": "/icons/og-image.jpg",
@@ -32,122 +32,47 @@
     }
   ],
   "tiles": [
-    {
-      "name": "No mohla bejt tlustší",
-      "filename": "no_mohla_bejt_tlustsi.mp3"
-    },
-    {
-      "name": "Já si přál tlustší",
-      "filename": "ja_si_pral_tlustsi.mp3"
-    },
-    {
-      "name": "Ta polivka je uplně studená",
-      "filename": "1_polivka_studena.mp3"
-    },
-    {
-      "name": "Tak si naber ty svine",
-      "filename": "2_tak_si_naber_ty_svine.mp3"
-    },
-    {
-      "name": "Nekaz mi apetit",
-      "filename": "3_nekaz_mi_apetit.mp3"
-    },
-    {
-      "name": "A jez!",
-      "filename": "a_jez.mp3"
-    },
-    {
-      "name": "Sakra!",
-      "filename": "sakra.mp3"
-    },
-    {
-      "name": "Mam se svlict",
-      "filename": "4_mam_se_svlict.mp3"
-    },
-    {
-      "name": "To uz mas bejt davno svlecena",
-      "filename": "5_to_uz_mas_betj_davno_svlecena.mp3"
-    },
-    {
-      "name": "Narovnejte ten ubrus",
-      "filename": "6_narovnejte_ten_ubrus.mp3"
-    },
-    {
-      "name": "Vzdyt je to takovy unapetitlich",
-      "filename": "7_vzdyt_je_to_takovy_unapetitlich.mp3"
-    },
-    {
-      "name": "Jak je libo, slečno",
-      "filename": "jak_je_libo_slecno.mp3"
-    },
-    {
-      "name": "Zavri oci couro",
-      "filename": "8_zavri_oci_couro.mp3"
-    },
-    {
-      "name": "Spolkla sis jazyk",
-      "filename": "9_spolka_sis_jazyk.mp3"
-    },
-    {
-      "name": "Cubko",
-      "filename": "10_cubko.mp3"
-    },
-    {
-      "name": "Tak pojd",
-      "filename": "11_tak_pojd.mp3"
-    },
-    {
-      "name": "Ale no tak už začněte",
-      "filename": "ale-no-tak-uz-zacnete.mp3"
-    },
-    {
-      "name": "Doufám že je ohřátá",
-      "filename": "doufam-ze-je-ohrata.mp3"
-    },
-    {
-      "name": "Jen si pořádně naberte",
-      "filename": "jen-si-poradne-naberte.mp3"
-    },
-    {
-      "name": "Jo víno",
-      "filename": "jo-vino.mp3"
-    },
-    {
-      "name": "No snad jo",
-      "filename": "no-snad-jo.mp3"
-    },
-    {
-      "name": "Nojo",
-      "filename": "nojo.mp3"
-    },
-    {
-      "name": "Ohřátá",
-      "filename": "ohrata.mp3"
-    },
-    {
-      "name": "Pojďte se posadit",
-      "filename": "pojdte-se-posadit.mp3"
-    },
-    {
-      "name": "Prej horká",
-      "filename": "prej-horka.mp3"
-    },
-    {
-      "name": "Slavný jméno",
-      "filename": "slavny-jmeno.mp3"
-    },
-    {
-      "name": "Tak prosím panstvo",
-      "filename": "tak-prosim-panstvo.mp3"
-    },
-    {
-      "name": "Úplně studená",
-      "filename": "uplne-studena.mp3"
-    },
-    {
-      "name": "Vo tom já mám ponětí",
-      "filename": "vo-tom-ja-mam-poneti.mp3"
-    }
+    { "name": "No mohla bejt tlustší", "filename": "1_no_mohla_bejt_tlustsi.mp3" },
+    { "name": "Já si přál tlustší", "filename": "2_ja_si_pral_tlustsi.mp3" },
+    { "name": "Můžu poprosit o ubrus", "filename": "3_muzu-poprosit-o-ubrus.mp3" },
+    { "name": "Slavný jméno", "filename": "4_slavny-jmeno.mp3" },
+    { "name": "Nojo", "filename": "5_nojo.mp3" },
+    { "name": "Ale servírovat umíte", "filename": "6_ale-servirovat-umite.mp3" },
+    { "name": "O tom já mám ponětí", "filename": "7_o-tom-ja-mam-poneti.mp3" },
+    { "name": "Tak prosím panstvo", "filename": "8_tak-prosim-panstvo.mp3" },
+    { "name": "No doufám že je ohřátá", "filename": "9_no-doufam-ze-je-ohrata.mp3" },
+    { "name": "Ta polívka je úplně studená", "filename": "10_ta-polivka-je-uplne-studena.mp3" },
+    { "name": "Prej horká", "filename": "11_prej-horka.mp3" },
+    { "name": "Ohřátá", "filename": "12_ohrata.mp3" },
+    { "name": "Pojďte se posadit", "filename": "13_pojdte-se-posadit.mp3" },
+    { "name": "Úplně studená", "filename": "14_uplne-studena.mp3" },
+    { "name": "Jo víno", "filename": "15_jo-vino.mp3" },
+    { "name": "Jen si pořádně naberte", "filename": "16_jen-si-poradne-naberte.mp3" },
+    { "name": "Tak si naber ty svině", "filename": "17_tak_si_naber_ty_svine.mp3" },
+    { "name": "A jez", "filename": "18_a_jez.mp3" },
+    { "name": "Nekaz mi apetit", "filename": "19_nekaz_mi_apetit.mp3" },
+    { "name": "Sakra", "filename": "20_sakra.mp3" },
+    { "name": "Mám se svlíct", "filename": "21_mam_se_svlict.mp3" },
+    { "name": "No snad jo", "filename": "22_no-snad-jo.mp3" },
+    { "name": "Ale no tak už začněte", "filename": "23_ale-no-tak-uz-zacnete.mp3" },
+    { "name": "Jak je libo slečno", "filename": "24_jak-je-libo-slecno.mp3" },
+    { "name": "A vy se mě bojíte", "filename": "25_a-vy-se-me-bojite.mp3" },
+    { "name": "Hrabě", "filename": "26_hrabe.mp3" },
+    { "name": "No to vám doporučuju opravdovou opatrnost", "filename": "27_no-to-vam-doporucuju-opravdovou-opatrnost.mp3" },
+    { "name": "To je moc pěkný jméno", "filename": "28_to-je-moc-pekny-jmeno.mp3" },
+    { "name": "To už máš bejt dávno svlečená", "filename": "29_to_uz_mas_betj_davno_svlecena.mp3" },
+    { "name": "Jste moc fešná osoba", "filename": "30_jste-moc-fesna-osoba.mp3" },
+    { "name": "Ten klobouk je opravdu elegantní", "filename": "31_ten-klobouk-je-opravdu-elegantni.mp3" },
+    { "name": "A co z toho mám já", "filename": "32_a-co-z-toho-mam-ja.mp3" },
+    { "name": "Narovnejte ten ubrus", "filename": "33_narovnejte_ten_ubrus.mp3" },
+    { "name": "Vždyť je to takový unapetitlich", "filename": "34_vzdyt_je_to_takovy_unapetitlich.mp3" },
+    { "name": "Víte co bych chtěl", "filename": "35_vite-co-bych-chtel.mp3" },
+    { "name": "Chtěl bych v šest ráno snídat", "filename": "36_chtel-bych-v-sest-rano-snidat.mp3" },
+    { "name": "Zavři oči couro", "filename": "37_zavri_oci_couro.mp3" },
+    { "name": "Máš strach", "filename": "38_mas-strach.mp3" },
+    { "name": "Spolkla sis jazyk", "filename": "39_spolka_sis_jazyk.mp3" },
+    { "name": "Čubko", "filename": "40_cubko.mp3" },
+    { "name": "Tak pojď", "filename": "41_tak_pojd.mp3" }
   ],
   "lyrics": [
     "Je to takovy unapetitlich"
